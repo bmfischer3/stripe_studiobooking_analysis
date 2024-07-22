@@ -1,0 +1,25 @@
+# Ignore file types
+*.log
+*.ipynb
+header.py
+*.DS_store
+*.json
+*.pyc
+*.env
+*.xls
+*.xlsx
+*.csv
+
+# Ignore specific files
+test_report.py
+
+
+# Ignore directories
+Data Imports/
+Report Exports/
+Logging/
+Processing Exports/
+__pycache__
+
+# Ignore ALL files in ANY directory named temp
+temp/
