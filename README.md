@@ -63,6 +63,8 @@ name. These lines could belong to a single member or several members - it is not
 ## Repository Structure
 stripe_studiobooking_analysis/
 
+```
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
