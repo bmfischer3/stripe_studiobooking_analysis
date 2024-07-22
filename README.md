@@ -60,11 +60,3 @@ name. These lines could belong to a single member or several members - it is not
 - **Expand Data Analysis**: Incorporate additional metrics and dimensions for deeper insights.
 - **Create Data Pipeline**: Create ongoing analysis to get insights in realtime. 
 
-## Repository Structure
-stripe_studiobooking_analysis/
-
-```
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
