@@ -1,4 +1,4 @@
-# Project Title: Business Intelligence from Stripe and StudioBookings Data
+# Business Intelligence from Stripe and StudioBookings Data
 
 ## Table of Contents
 - [Project Title: Business Intelligence from Stripe and StudioBookings Data](#project-title-business-intelligence-from-stripe-and-studiobookings-data)
